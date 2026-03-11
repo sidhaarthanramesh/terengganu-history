@@ -57,7 +57,7 @@ nav a:hover {
 .hero {
     height: 70vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-    url('https://images.unsplash.com/photo-1506744038136-46273834b3fb') center/cover no-repeat;
+    url('https://www.monash.edu/__data/assets/image/0007/4076584/bg-monash-batik-3.webp') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -222,4 +222,5 @@ margin-top: 5px;
 
 .timeline-item:nth-child(even) {
     left: 55%;
+
 }
